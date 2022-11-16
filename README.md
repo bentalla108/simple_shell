@@ -100,9 +100,9 @@ The simple_shell is designed to execute commands in a similar manner to sh, howe
 
 
 ## Authors
-Alexa Orrico | [GitHub](https://github.com/bentalla10_) | [Twitter](https://twitter.com/bentalla_)
+Mor Talla Mbaye | [GitHub](https://github.com/bentalla10_) | [Twitter](https://twitter.com/bentalla_)
 
-John Cottrell | [GitHub](https://github.com/SafieDeme9) | [Twitter](https://twitter.com/Sdeme9)
+Safietou Deme | [GitHub](https://github.com/SafieDeme9) | [Twitter](https://twitter.com/Sdeme9)
 
 ## License
 simple_shell is open source and therefore free to download and use without permission.
